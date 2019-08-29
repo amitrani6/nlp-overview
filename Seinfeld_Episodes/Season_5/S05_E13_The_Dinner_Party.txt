@@ -54,13 +54,13 @@ KRAMER: I like Ring Dings.
 ELAINE: George, we can't show up at someone's house with Ring Dings and Pepsi.
 KRAMER: HEY YOUR LIGHTS ARE ON!
 GEORGE: It's a funeral procession. . . . And I got news for you. I show up with Ring Dings and Pepsi, I become the biggest hit at the party. People be coming up to me, "just between you and me I'm really excited about the Ring Dings and the Pepsi. Europeans with the Beaujolais and Chardonnay . . .
-ELAINE: Oh, wait a minute. There's the bakery. Stop here. Stop here. Okay, let me out. You, whatever your name is…
+ELAINE: Oh, wait a minute. There's the bakery. Stop here. Stop here. Okay, let me out. You, whatever your name is 
 JERRY: Jerry.
 ELAINE: Yeah, Jerry, come with me.
 KRAMER: Okay, so we're going to get the wine and we'll pick you up here in ten minutes.
 ELAINE: Yeah.
 KRAMER: All right
- 
+ 
 [The Royal Bakery]
 ELAINE: Ummm, I love the smell of bakeries.
 JERRY: Oh look Elaine, the black and white cookie. I love the black and white. Two races of flavor living side by side [mumble?] It's a wonderful thing isn't it?
@@ -119,11 +119,11 @@ BARBARA: You're NOT getting my number.
 JERRY: Oh so you still don't believe us.
 CLERK: 47!
 BARBARA: Us.
-ELAINE: Oh, oh, fine, go ahead. But listen let me tell you something as soon as I get there I'm going to tell everyone what a jerk you are.
+ELAINE: Oh, oh, fine, go ahead. But listen let me tell you something as soon as I get there I'm going to tell everyone what a jerk you are.
 BARBARA: Well, I'll be there ahead of you and I'LL be telling them what a jerk YOU are. . . . I'll have the chocolate Bobka.
 CLERK: You're lucky Mrs. Benedict it's our last one.
 [Liquor Store]
- 
+ 
 GEORGE: So alright, what are we getting? It's so hot in here!
 KRAMER: What do you say we get a Mouton Cadet?
 GEORGE: What's that?
@@ -162,7 +162,7 @@ ELAINE: No, but they got the chocolate. We'll be going in with a lesser Bobka.
 JERRY: I beg your pardon? Cinnamon takes a back seat to no Bobka. People love cinnamon. It should be on tables at restaurants along with salt and pepper. Anytime anyone says, "Oh This is so good. What's in it?" The answer invariably comes back, Cinnamon. Cinnamon. Again and again. Lesser Bobka - I think not.
 CLERK: 49?
 ELAINE: I'll have the cinnamon Bobka.
-JERRY: … and a black and white cookie, for me. Peace!
+JERRY:   and a black and white cookie, for me. Peace!
 [Liquor store]
 Cleck: That will be 13.05
 GEORGE: All right here you go.
@@ -229,9 +229,9 @@ JERRY: Well, why don't we just forget about the cake?
 ELAINE: No I'm bringing cake!
 [Liquor store]
 GEORGE: All right we got the wine. Aren't we lucky? We got wine. Imagine if we didn't bring wine. We'd be shunned by society. Outcasts! WHERE'S YOUR WINE? GET OUT!
-KRAMER: "I know this is going to sound like a crazy fantasy but every word of this story is true…" [exits to street] " A weeks days ago my girlfriend happened to mention to me how attractive our new neighbor Linda was…"
+KRAMER: "I know this is going to sound like a crazy fantasy but every word of this story is true " [exits to street] " A weeks days ago my girlfriend happened to mention to me how attractive our new neighbor Linda was "
 GEORGE: Look at this? Somebody double parked and blocked us in. DOES ANYBODY KNOW WHOSE CAR THAT IS? Maybe there's a note on it. No, no note. Can you believe this?
-KRAMER: "…well of course I noticed it too with those ample breasts and those pouty lips. I don't have to tell you she was a knock out…."
+KRAMER: " well of course I noticed it too with those ample breasts and those pouty lips. I don't have to tell you she was a knock out ."
 [still on street but much later]
 GEORGE: I really can't comprehend how stupid people can be sometimes. Can you comprehend it?
 KRAMER: No, no I can't comprehend it?
@@ -307,7 +307,7 @@ JERRY: I know, I haven't thrown up since June 29th, 1980.
 [Man with cane puts cane on Elaine's foot]
 ELAINE: Oh, oh!
 MAN3: Sooory.
-ELAINE: Sorry? You almost took my toe off. Why don't you watch what you're doing you, LUNATIC!… uh, I think he broke my toe. [Jerry gets up] Where're you going?
+ELAINE: Sorry? You almost took my toe off. Why don't you watch what you're doing you, LUNATIC!  uh, I think he broke my toe. [Jerry gets up] Where're you going?
 JERRY: Fourteen years down the drain.
 [Liquor Store]
 GEORGE: Do chickens have individual personalities?
@@ -334,7 +334,7 @@ JERRY: Oh, no thanks.
 CLERK: How about a nice box of "scram".
 [George enters]
 GEORGE: Somebody double parked, we couldn't help it. It might have been Saddam Hussein, we're not really sure. He had a British accent though. What, what happened to you?
-ELAINE: Somebody put a cane on my foot. Just like the one I'm going to put up your ….
+ELAINE: Somebody put a cane on my foot. Just like the one I'm going to put up your  .
 JERRY: Hey, what happened to your coat? And what's the smell, what are you drunk?
 GEORGE: I had to give it to the liquor store guy.
 JERRY: What for?
