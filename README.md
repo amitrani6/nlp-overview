@@ -16,7 +16,7 @@ This repository contains nine files and three folders:
 9) **NLP_Seinfeld_Season_5.ipynb** - A Jupyter Notebook which cleans Seinfeld scripts
 10) **NLTK Process.ipynb** - A Jupyter Notebook containing the cleaning process for NLP 
 11) **README.md** - This document
-12) **Text Classification.ipynb** - A Jupyter notebook outlining the process for classifying text
-13) **naive_bayes_classifier_no_character_names.ipynb** - A Jupyter notebook with the Seinfeld/Curb classifier with character names included
-14) **naive_bayes_classifier_with_character_names.ipynb** - A Jupyter notebook without the Seinfeld/Curb classifier with character names included
-15) **nlp_process.ipynb** - 
+12) **Text Classification.ipynb** - A Jupyter Notebook outlining the process for classifying text
+13) **naive_bayes_classifier_no_character_names.ipynb** - A Jupyter Notebook with the Seinfeld/Curb classifier with character names included
+14) **naive_bayes_classifier_with_character_names.ipynb** - A Jupyter Notebook without the Seinfeld/Curb classifier with character names included
+15) **nlp_process.ipynb** - A Jupyter Notebook outlining the tokenization process
